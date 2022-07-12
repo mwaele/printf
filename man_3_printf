@@ -1,0 +1,9 @@
+.TH man 3 "12 July 2022" "ALX School" "_PRINTF"
+.SH NAME
+.B _printf
+- formatted output conversion
+.SH SYNOPSIS
+.B #include \(dqmain.h\(dq
+.sp
+.B int _printf(const char *
+int print_string(va_list l, flags_t *f);
